@@ -9,7 +9,6 @@ You can add directory in your bundle:
 <b>Resources/config/routing.yml</b> and put your routing without touch the routing global in <b>app/routing.yml</b>
 
 You can add new parameters under <b>core_base</b> extentions in <b>Resources/config/config.yml</b> 
-
 see exemple <b>/src/CoreBaseBundle/Resources/config/config.yml</b>
 
 can change key and value of your config.yml in configuration.php treeBuilder :
