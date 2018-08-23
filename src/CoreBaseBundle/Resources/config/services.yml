@@ -1,0 +1,7 @@
+#services:
+#    core:
+#        class: CoreBaseBundle\DependencyInjection\CoreExtension
+
+services:
+#    CoreBaseBundle\Services\RoutingInjection\RouteServiceProvider:
+#          tags: [routing.loader]

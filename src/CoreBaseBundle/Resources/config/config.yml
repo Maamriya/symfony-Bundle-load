@@ -1,0 +1,10 @@
+parameters:
+    core_base:
+        alias:  facebook
+        app_id: test
+        secret: xxx
+        cookie_in:
+              new: tets
+              hous: hhhhhhhh
+        permissions: [email, user_birthday, user_location, user_about_me]
+

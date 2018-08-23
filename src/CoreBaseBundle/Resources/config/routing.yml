@@ -1,0 +1,7 @@
+first_url:
+    path:     /first_url
+    defaults: { _controller: CoreBaseBundle:Default:index }
+
+second_url:
+    path:     /second_url
+    defaults: { _controller: CoreBaseBundle:Default:second }

@@ -1,0 +1,4 @@
+app_extra:
+    resource: .
+    type: routing_injection
+
